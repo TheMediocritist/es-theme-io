@@ -5,7 +5,7 @@
 	<view name="system, basic, detailed, grid">
 
 		<image name="bg_color" extra="true">
-			<color>d8d8d8</color>
+			<color>ffffff</color>
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -21,13 +21,13 @@
 	<view name="system">
 
 		<image name="bg_color" extra="true">
-			<color>0c0c0c</color>
+			<color>000000</color>
 		</image>
 
 		<helpsystem name="help">
 			<pos>0.020 0.950</pos>
-			<textColor>d8d8d8</textColor>
-			<iconColor>d8d8d8</iconColor>
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
 			<fontPath>./../font/Inconsolata-Regular.ttf</fontPath>
 			<fontSize>0.025</fontSize>
 		</helpsystem>
@@ -37,7 +37,7 @@
 	<view name="basic">
 
 		<image name="bg_logo" extra="true">
-			<color>0c0c0c</color>
+			<color>000000</color>
 			<size>0.980 0.100</size>
 			<pos>0.010 0.020</pos>
 			<origin>0 0</origin>
@@ -54,13 +54,13 @@
 			<size>0.980 0.840</size>
 			<pos>0.010 0.140</pos>
 			<origin>0 0</origin>
-			<color>0c0c0c</color>
+			<color>000000</color>
 		</image>
 			<textlist name="gamelist">
-				<selectorColor>d8d8d8</selectorColor>
-				<selectedColor>0c0c0c</selectedColor>
-				<primaryColor>d8d8d8</primaryColor>
-				<secondaryColor>d8d8d8</secondaryColor>
+				<selectorColor>ffffff</selectorColor>
+				<selectedColor>000000</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>ffffff</secondaryColor>
 				<fontPath>./../font/Inconsolata-Regular.ttf</fontPath>
 				<size>0.960 0.800</size>
 				<pos>0.020 0.160</pos>
@@ -73,7 +73,7 @@
 	<view name="detailed">
 
 		<image name="bg_logo" extra="true">
-			<color>0c0c0c</color>
+			<color>000000</color>
 			<size>0.980 0.100</size>
 			<pos>0.010 0.020</pos>
 			<origin>0 0</origin>
@@ -90,7 +90,7 @@
 			<size>0.980 0.540</size>
 			<pos>0.010 0.140</pos>
 			<origin>0 0</origin>
-			<color>0c0c0c</color>
+			<color>000000</color>
 		</image>
 			<image name="md_image">
 				<maxSize>0.960 0.500</maxSize>
@@ -103,13 +103,13 @@
 			<size>0.980 0.280</size>
 			<pos>0.010 0.700</pos>
 			<origin>0 0</origin>
-			<color>0c0c0c</color>
+			<color>000000</color>
 		</image>
 			<textlist name="gamelist">
-				<selectorColor>d8d8d8</selectorColor>
-				<selectedColor>0c0c0c</selectedColor>
-				<primaryColor>d8d8d8</primaryColor>
-				<secondaryColor>d8d8d8</secondaryColor>
+				<selectorColor>ffffff</selectorColor>
+				<selectedColor>000000</selectedColor>
+				<primaryColor>ffffff</primaryColor>
+				<secondaryColor>ffffff</secondaryColor>
 				<size>0.960 0.250</size>
 				<pos>0.020 0.720</pos>
 				<fontPath>./../font/Inconsolata-Regular.ttf</fontPath>
